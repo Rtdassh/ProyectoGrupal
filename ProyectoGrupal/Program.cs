@@ -73,9 +73,6 @@ namespace GrupalProyecto
             Console.WriteLine($"No se encontró un libro con ID: {id}.");
             return false;
         }
-
-
-
         public static void MostrarLibros()
         {
             Console.WriteLine("Listado de libros:");
